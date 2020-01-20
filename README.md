@@ -9,6 +9,15 @@ Semana OmniStack 10 - RocketSeat
 ## Overview
 
 Tools to looking for a Developer By Stack Techs and/or By Location (Proximity)
+
+# Screen - Web
+
+![Main Screen](/img/dev-radar-web-1.png)
+
+![Main Screen - Responsive](/img/dev-radar-web-2.png)
+
+![Main Screen - Responsive](/img/dev-radar-web-3.png)
+
 ## Key features
 
 - Search Developers by techs;
